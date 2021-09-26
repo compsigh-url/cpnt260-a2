@@ -137,3 +137,9 @@ footer {
 .min-text-width {
     min-width: 20ch;
 }
+
+.align {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
